@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Shqtes
-- 👀 I’m interested in Python, DataScience, Database management, C++ and more
-- 🌱 I’m currently learning to English
+- 👀 I’m interested in Python, DataScience, Database management and more
+- 🌱 I’m currently learning to speak English
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me: I don't really know
 - 😄 Pronouns: idk
-- ⚡ Fun fact: I don't know English
+- ⚡ Fun fact: I can make a lot of mistakes in a line
