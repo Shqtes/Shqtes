@@ -5,7 +5,7 @@
 - 🌐 Я из Москвы  
   
 
-- 🎓 Учусь на 2 курсе в МТКП МГТУ им. Баумана  
+- 🎓 Учусь на 3 курсе в МТКП МГТУ им. Баумана  
   
 
 - 🔭 Сейчас работаю над [DeviceAssistant](https://github.com/Shqtes/DeviceAssistant.git)  
