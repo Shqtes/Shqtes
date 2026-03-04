@@ -2,7 +2,7 @@
 
 I'm Mikhail, a developer based in Moscow, Russia.
 
-I'm a student of Moscow State Technical University.
+I'm a student of Moscow State Technical University of Bauman.
 
 If an idea pops into my head, chances are I'll program it.
 
