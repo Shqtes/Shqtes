@@ -11,7 +11,7 @@ My main tech stack is Python and SQL. My favovite tools are Figma, PyCharm, DBea
 Fun facts:
 * I have a cat
 * I don't like coffee
-* I don't like programming Pascal
+* I hate vibecoding
 * **Hobbies**: programming, music(playing the guitar), learning English
 <!--
 **Shqtes/Shqtes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
